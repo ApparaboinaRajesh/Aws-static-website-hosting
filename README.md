@@ -1,1 +1,1 @@
-# Aws-static-website-hosting
+d92u0rinn94z7.cloudfront.net
